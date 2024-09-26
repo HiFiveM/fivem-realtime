@@ -32,7 +32,7 @@ This FiveM resource synchronizes the in-game time with real-world time, ensuring
 
 ## Usage
 - The script will automatically start syncing the real-time clock with the in-game time.
-- You can toggle the synchronization on and off using the command:
+- You can toggle the synchronization on and off using the command.
 
 
 
